@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'discordbroker.deno.dev';
+export const domain = 'minepi.click';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = true;
